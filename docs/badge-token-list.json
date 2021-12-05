@@ -1,0 +1,32 @@
+{
+  "name": "BADGE Project Token List",
+  "timestamp": "2021-12-01T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0 
+  },
+  "logoURI": "https://raw.githubusercontent.com/mute-kichi/assets/main/badgeToken.png",
+  "keywords": [
+    "pancakeswap",
+    "badge"
+  ],
+  "tokens": [
+    {
+      "name": "EDGE Token",
+      "symbol": "EDGE",
+      "address": "0x1cD68fc614AbD785190957569B1eE5bEd413D95D",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mute-kichi/assets/main/edgeToken.png"
+    },
+    {
+      "name": "BADGE Token",
+      "symbol": "BADGE",
+      "address": "0x09c5a4ef1629789f2f003f1e66cac2becc9897d4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mute-kichi/assets/main/badgeToken.png"
+    }
+  ]
+}
